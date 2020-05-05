@@ -1,0 +1,13 @@
+.title{
+  color: #02ccba;
+}
+
+.title-wrapper{
+  text-align: center;
+  background-color: #039999;
+  padding:20px;
+}
+.title a{
+color:white;
+font-size: 20px;
+}
